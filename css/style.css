@@ -305,6 +305,8 @@ body {
 .social-icons-menu {
   display: flex;
   list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 0;
   padding-left: 0;
   justify-content: center;
 }
@@ -430,7 +432,7 @@ body {
 
 .footer-section .section-title {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 20px;
 
   color: var(--heroic-text-color);
 
