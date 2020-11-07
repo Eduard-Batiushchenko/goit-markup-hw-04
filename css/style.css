@@ -226,6 +226,7 @@ body {
 
 .benefits-item.one::before {
   display: inline-block;
+  margin-bottom: 30px;
   content: "";
   background-image: url(../img/benefits1.jpg);
 
@@ -235,6 +236,7 @@ body {
 
 .benefits-item.two::before {
   display: inline-block;
+  margin-bottom: 30px;
   content: "";
   background-image: url(../img/benefits2.jpg);
 
@@ -244,6 +246,7 @@ body {
 
 .benefits-item.three::before {
   display: inline-block;
+  margin-bottom: 30px;
   content: "";
   background-image: url(../img/benefits3.jpg);
 
@@ -253,6 +256,7 @@ body {
 
 .benefits-item.four::before {
   display: inline-block;
+  margin-bottom: 30px;
   content: "";
   background-image: url(../img/benefits4.jpg);
   width: 270px;
@@ -273,7 +277,7 @@ body {
 }
 
 .section .subtitle {
-  margin-top: 30px;
+  margin-top: 0;
   margin-bottom: 10px;
   font-size: 14px;
   line-height: 1.14;
